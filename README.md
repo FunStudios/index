@@ -3,13 +3,15 @@
 This is the unoffical website!
 <br>
 We hopy you enjoy your time here!
-
-# about:
+<br> <br>
+about:
+<br>
 This is a GitHub pages website made so we could connect with you,
 <br>
 while we don't really have our own website!
-
-# Help
+<br><br>
+Help:
+<br>
 If you need any help with anything related to us contact us at:
 <br>
 Discord: Funseba37#2035
@@ -17,12 +19,7 @@ Discord: Funseba37#2035
 Scratch: Funcat37
 <br>
 Roblox: Funseba37
-# The end
+<br> <br>The end: <br>
 You have reached the end of our website!
 <br>
 See you later!
-<html>
-  <title>
-Fun Studios!
-</title>
-<html>
