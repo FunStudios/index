@@ -21,3 +21,8 @@ Roblox: Funseba37
 You have reached the end of our website!
 <br>
 See you later!
+<html>
+  <title>
+Fun Studios!
+</title>
+<html>
