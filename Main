@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<link rel= "Icon" href="Website-pics/FunStudios.jpg">
+<style>
+body {
+  background-image: url('Website-pics/Home.jpg');
+}
+</style>
+<title>
+Fun Studios!
+</title>
+</head>
+<body>
+
+<br>
+<p style="font-size: 115px">
+Welcome to Fun Studios!
+</p>
+
+<Font size="-17">
+This is just a beta website!
+</font>
+
+</body>
+
+</html>
