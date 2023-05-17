@@ -13,7 +13,7 @@ while we don't really have our own website!
 # Help:
 <br>
 If you need any help with anything related to us contact us at:
-<br>
+<br> <br>
 Discord: Funseba37#2035 or <a href="https://discord.gg/BZfKVTDSCg">Fun studios discord server</a> <br> 
 <br>
 Scratch: <a href="https://scratch.mit.edu/users/funcat37/">Funcat37</a> 
